@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/szoetvagyat/static/css/main.99ce1429.css",
-    "main.js": "/szoetvagyat/static/js/main.fe8417de.js",
+    "main.js": "/szoetvagyat/static/js/main.a4691563.js",
     "static/js/787.f2aa75b8.chunk.js": "/szoetvagyat/static/js/787.f2aa75b8.chunk.js",
     "service-worker.js": "/szoetvagyat/service-worker.js",
     "index.html": "/szoetvagyat/index.html",
     "main.99ce1429.css.map": "/szoetvagyat/static/css/main.99ce1429.css.map",
-    "main.fe8417de.js.map": "/szoetvagyat/static/js/main.fe8417de.js.map",
+    "main.a4691563.js.map": "/szoetvagyat/static/js/main.a4691563.js.map",
     "787.f2aa75b8.chunk.js.map": "/szoetvagyat/static/js/787.f2aa75b8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.99ce1429.css",
-    "static/js/main.fe8417de.js"
+    "static/js/main.a4691563.js"
   ]
 }
